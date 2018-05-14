@@ -75,10 +75,7 @@
 </build>
          
     <properties>
-        <dependency.locations.enabled>false</dependency.locations.enabled>
+        <dependency.locations.enabled>false</dependency.locations.enabled>  
         <aspectj.version>1.8.10</aspectj.version>
-    </properties>
-    <build>
-        <defaultGoal>compile</defaultGoal>
-    </build>
+    </properties>         
 </project>
