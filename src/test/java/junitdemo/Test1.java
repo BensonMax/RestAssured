@@ -21,6 +21,18 @@ public class Test1 {
     public void fun2(){
         System.out.println("this is Test1 fun2");
     }
+    @Test
+    public void fun3(){
+        System.out.println("this is Test1 fun3");
+    }
+    @Test
+    public void fun4(){
+        System.out.println("this is Test1 fun4");
+    }
+    @Test
+    public void fun5(){
+        System.out.println("this is Test1 fun5");
+    }
 
 
 
